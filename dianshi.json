@@ -194,16 +194,6 @@
    "filterable": 1
   },
   {
-   "key": "快映fox",
-   "name": "快映 • APP",
-   "type": 3,
-   "api": "csp_AppFox",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "./json/ky4kbgq7b273.json"
-  },
-  {
    "key": "一起影视",
    "name": "一起 • APP",
    "type": 3,
