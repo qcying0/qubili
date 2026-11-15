@@ -401,20 +401,7 @@
     "dataIv": "5a9w6x58dsq6z3a6"
    }
   },
-  {
-   "key": "茉莉Get",
-   "name": "茉莉 • APP",
-   "type": 3,
-   "api": "csp_AppGet",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-    "dataKey": "88689667dce61725",
-    "dataIv": "88689667dce61725"
-   }
-  },
-  {
+ {
    "key": "玩偶",
    "name": "玩偶 • 4K",
    "type": 3,
@@ -773,13 +760,7 @@
    "type": 3,
    "api": "csp_Dubk"
   },
-  {
-   "key": "星辰影视",
-   "name": "星辰 • 影视",
-   "type": 3,
-   "api": "csp_XingChen"
-  },
-  {
+ {
    "key": "飞娱影视",
    "name": "飞娱 • 影视",
    "type": 3,
